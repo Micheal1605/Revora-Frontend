@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-912-fix-csv-import-revenue-calendar-and-blacklist",
+    "master",
+    "origin",
+    "security/issue-930-security-2fa-twofactorrecoveryflow-accepts-any"
+  ],
+  "parent": {
+    "fix/issue-912-fix-csv-import-revenue-calendar-and-blacklist": "master",
+    "master": null,
+    "origin": "master",
+    "security/issue-930-security-2fa-twofactorrecoveryflow-accepts-any": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-912-fix-csv-import-revenue-calendar-and-blacklist",
+    "origin",
+    "security/issue-930-security-2fa-twofactorrecoveryflow-accepts-any"
+  ]
+}
